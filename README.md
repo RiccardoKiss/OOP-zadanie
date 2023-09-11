@@ -1,4 +1,4 @@
-# oop-2020-str-14-pu1-povazanova-RiccardoKiss
+# OOP-zadanie
 ***
 
 # Predajňa stromov
